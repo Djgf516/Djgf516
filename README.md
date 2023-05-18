@@ -3,7 +3,10 @@
 ![Header image](https://raw.githubusercontent.com/Djgf516/Djgf516/main/Assets/GitHub_Header.jpg)
 I'm a nerd that love to help people. Connect on LinkedIn
 
-<img align="right" src="https://media.giphy.com/media/L3nWlmgyqCeU8/giphy.gif" width="150" style="border-radius: 50%; max-width: 180px;">
+<p align="right">
+  <img src="https://media.giphy.com/media/L3nWlmgyqCeU8/giphy.gif" alt="GIF" width="150" style="border-radius: 50%;">
+</p>
+
 
 
 <!--
