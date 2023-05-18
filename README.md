@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Header image](https://raw.githubusercontent.com/Djgf516/Djgf516/main/Assets/GitHub_Header.jpg)
+I'm a nerd that love to help people. Connect on LinkedIn
+
+<img align='right' src='https://media.giphy.com/media/L3nWlmgyqCeU8/giphy.gif' width='200"'>
+
 <!--
 **Djgf516/Djgf516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
