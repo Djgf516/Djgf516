@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-<!--![Header image](https://raw.githubusercontent.com/Djgf516/Djgf516/main/Assets/GitHub_Header.jpg)-->
+![Header image](https://raw.githubusercontent.com/Djgf516/Djgf516/main/Assets/Banner.jpg)
 I'm a nerd that loves to help people. Connect on LinkedIn
 
 <img align='right' src='https://media.giphy.com/media/eZsKqkZUEM5vG/giphy.gif' width='200"'>
