@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 ![Header image](https://raw.githubusercontent.com/Djgf516/Djgf516/main/Assets/GitHub_Header.jpg)
 I'm a nerd that loves to help people. Connect on LinkedIn
