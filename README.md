@@ -12,7 +12,7 @@ I'm a nerd that loves to help people. Connect on LinkedIn
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 🤔 I’m looking for resources to learn more about AI
 - 💬 Ask me about Java
-- ⚡ Fun fact: Food Enthusiast tell me your favorite restaurant! 
+- ⚡ Fun fact: I'm a Foodie, tell me your favorite restaurant! 
 <!--
 **Djgf516/Djgf516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
