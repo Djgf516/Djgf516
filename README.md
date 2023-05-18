@@ -6,6 +6,7 @@ I'm a nerd that loves to help people. Connect on LinkedIn
 <img align='right' src='https://media.giphy.com/media/eZsKqkZUEM5vG/giphy.gif' width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-DemetrioGutierrezFinley-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/demetriogf1)
+[`📫 demetriogutierrezfinley@gmail.com`](mailto:demetriogutierrezfinley@gmail.com)
 
 ## 🏠 About Me
 - 🔭 I’m currently working on [Djgf516/Paint-for-Miniatures-Search-Engine](https://github.com/Djgf516/Paint-for-Miniatures-Search-Engine) - Paint Finder for Miniature Painters
