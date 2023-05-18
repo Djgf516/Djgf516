@@ -5,7 +5,7 @@ I'm a nerd that loves to help people. Connect on LinkedIn
 
 <img align='right' src='https://media.giphy.com/media/eZsKqkZUEM5vG/giphy.gif' width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-DemetrioGutierrezFinley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/demetriogf1/)]([[https://www.linkedin.com/in/demetriogf1/])
+[![Linkedin Badge](https://img.shields.io/badge/-DemetrioGutierrezFinley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/demetriogf1)]([[https://www.linkedin.com/in/demetriogf1])
 [![Gmail Badge](https://img.shields.io/badge/-demetriogutierrezfinley@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:demetriogutierrezfinley@gmail.com)](mailto:demetriogutierrezfinley@gmail.com)
 
 ## 🏠 About Me
